@@ -20,8 +20,8 @@ The fourth task centered on creating a visually enhanced Brand Reputation Manage
 Collectively, these four tasks demonstrate my expertise in building cohesive marketing systems—from content creation and SEO optimization to reputation management and strategic planning. Each deliverable was crafted with clarity, structure, and real-world practicality, showcasing an ability to develop high-value assets that support brand growth and digital success.
 
 ## OUTPUT
-
-[TASK 3.pdf](https://github.com/user-attachments/files/23967100/TASK.3.pdf)
-[TASK 4.pdf](https://github.com/user-attachments/files/23967103/TASK.4.pdf)
 [TASK 1.xlsx](https://github.com/user-attachments/files/23967101/TASK.1.xlsx)
 [TASK 2.docx](https://github.com/user-attachments/files/23967102/TASK.2.docx)
+[TASK 3.pdf](https://github.com/user-attachments/files/23967100/TASK.3.pdf)
+[TASK 4.pdf](https://github.com/user-attachments/files/23967103/TASK.4.pdf)
+
