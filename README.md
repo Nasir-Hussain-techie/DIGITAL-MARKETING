@@ -1,12 +1,18 @@
 # DIGITAL-MARKETING
 **COMPANY** : CODTECH IT SOLUTION
+
 **NAME** : SYED NASIR HUSSAIN
+
 **INTERN ID** : CT04DR2014
+
 **DOMAIN** : DIGITAL MARKETING
+
 **DURATION** : 4 WEEKS
+
 **MENTOR** : NEELA SANTOSH
 
 # DESCRIPTION OF TASK LIKE HOW I HAVE PERFORMED AND WHAT I HAVE DONE
+
 Over the course of four comprehensive digital marketing assignments, I successfully planned, designed, and executed strategic documents and frameworks that collectively demonstrate strong capabilities in content marketing, SEO, and brand reputation management. Each task involved a structured approach, analytical thinking, and the creation of polished, client-ready deliverables tailored for business use.
 
 The first task involved developing a 30-day social media content calendar aimed at supporting consistent brand visibility and audience engagement. I began by identifying essential content pillars such as product highlights, educational insights, storytelling, audience interaction, and user-generated content. Based on these pillars, I crafted a full month of diverse post ideas, each supported with customized captions, relevant hashtags, and creative visual concepts. The final deliverable was organized in a clean, easy-to-navigate Excel sheet, enabling seamless scheduling across all major social platforms. This calendar ensured structured communication and provided a strong foundation for maintaining a cohesive brand presence.
